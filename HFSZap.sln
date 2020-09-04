@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HFSZap", "HFSZap\HFSZap.csproj", "{B23AF40D-B8F7-471B-94AB-A2982520FAEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B23AF40D-B8F7-471B-94AB-A2982520FAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23AF40D-B8F7-471B-94AB-A2982520FAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23AF40D-B8F7-471B-94AB-A2982520FAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23AF40D-B8F7-471B-94AB-A2982520FAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAD70E56-5DD1-4B74-977C-4CCA45D05C72}
+	EndGlobalSection
+EndGlobal
