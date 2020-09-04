@@ -119,6 +119,7 @@
     <None Include="Resources\nc.exe" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="raw_shell.txt" />
     <Content Include="Server.ico" />
   </ItemGroup>
   <ItemGroup>
