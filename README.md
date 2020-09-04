@@ -17,7 +17,7 @@
 
 ## Getting Started
 <p align="center">
-Clone this repository, then you will be able to use HFSzap.exe and modify the sourcecode if needed. 
+Clone this repository, then you will be able to use HFSzap.exe and modify the source code if needed. 
 </p>
 
 <!-- USAGE EXAMPLES -->
